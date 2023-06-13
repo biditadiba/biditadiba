@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Bidita Sarkar Diba</h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 <img alter = "coding" align = "right" width = "400" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif " >
 
@@ -9,21 +8,26 @@ I'm an enthusiastic and dedicated undergraduate student majoring in Computer Sci
 
 One of my primary areas of focus is machine learning and deep learning. I am fascinated by the way these technologies can uncover patterns, make predictions, and revolutionize the way we solve complex problems. I am constantly honing my skills through hands-on projects and staying up-to-date with the latest advancements in the field. From image classification to natural language processing, I am excited to explore the endless possibilities that machine learning and deep learning offer.
 
---- 
+---
 
-My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=biditadiba&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=biditadiba&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=biditadiba&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/biditadiba/github-stats">
-<img src="https://biditadiba.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://biditadiba.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+## My Stack
+
+{
+   "Proficient": ["Python", "Java", "JavaScript", "C", "C++", "SQL","HTML","CSS", "Bootstrap"]
+   "Backend": ["Django", "Blackchain"],
+   "Database": ["MySql"],
+   "AI framework":["jQuery","Django","Scikit-learn"],
+   "Modules & Library":["Pandas","Numpy","Matplotlib & Seaborn"]
+                          
+   "Machine Learning Algorithms": ["Support Vector Machine Algorithm', "Linear Regression", "Logistic Regression", "Decision Tree", "Naive Bayes algorithm", "K-Nearest Neighbors Algorithma", "K-means",  "Random forest algorithm", "Model Validation","Feature Selection"],
+   
+   "Deep Learning": ["CNN"]
+}
 
 ---
 
-Languages and Tools
+## Languages and Tools
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
@@ -41,23 +45,23 @@ Languages and Tools
 
 ---
 
-Contribution 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://biditadiba.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://biditadiba.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://biditadiba.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
+## Contribution 
+
+<p align="center">
+<a href="https://github.com/absmahi01">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=absmahi01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
-Social info
+## Social info
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/bidita-sarkar-diba-a4ba421b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidita-sarkar-diba-a4ba421b6" height="30" width="40" /></a>
 <a href="https://www.facebook.com/biditasarkar.diba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biditasarkar.diba" height="30" width="40" /></a>
 <a href="https://instagram.com/_bidita.diba_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bidita.diba_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Bidita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Bidita" height="30" width="40" /></a>
 
----
 
-Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
