@@ -30,6 +30,17 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
 
 ---
 
+## Contribution 
+
+<p align="center">
+<a href="https://github.com/absmahi01">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=absmahi01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
 ## Languages and Tools
 
 <div>
@@ -46,17 +57,6 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-## Contribution 
-
-<p align="center">
-<a href="https://github.com/absmahi01">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=absmahi01&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ---
 
