@@ -2,7 +2,7 @@
 
 <img alter = "coding" align = "right" width = "400" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif " >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biditadiba&label=Profile%20views&color=0e75b6&style=flat" alt="biditadiba" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biditadiba&label=Profile%20views&color=0e75b6&style=flat" alt="biditadiba" /> </p>
 
 I'm an enthusiastic and dedicated undergraduate student majoring in Computer Science and Engineering at the University of Asia Pacific. Passionate about coding and programming, I find joy in exploring the vast realms of technology and building innovative solutions. As a female student in the field, I'm determined to make a mark and inspire more women to pursue their interests in coding.<br>
 
@@ -12,6 +12,7 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
 
 ## My Stack
 
+```json
 {
    "Proficient": ["Python", "Java", "JavaScript", "C", "C++", "SQL","HTML","CSS", "Bootstrap"]
    "Backend": ["Django", "Blackchain"],
@@ -19,10 +20,13 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
    "AI framework":["jQuery","Django","Scikit-learn"],
    "Modules & Library":["Pandas","Numpy","Matplotlib & Seaborn"]
                           
-   "Machine Learning Algorithms": ["Support Vector Machine Algorithm', "Linear Regression", "Logistic Regression", "Decision Tree", "Naive Bayes algorithm", "K-Nearest Neighbors Algorithma", "K-means",  "Random forest algorithm", "Model Validation","Feature Selection"],
+   "Machine Learning Algorithms": ["Support Vector Machine Algorithm', "Linear Regression", "Logistic Regression", 
+                                   "Decision Tree", "Naive Bayes algorithm", "K-Nearest Neighbors Algorithma", 
+                                   "K-means",  "Random forest algorithm", "Model Validation","Feature Selection"],
    
    "Deep Learning": ["CNN"]
 }
+```
 
 ---
 
