@@ -23,7 +23,7 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
    "Machine Learning Algorithms": ["Support Vector Machine Algorithm", "Linear Regression", "Logistic Regression", 
                                    "Decision Tree", "Naive Bayes algorithm", "K-Nearest Neighbors Algorithma", 
                                    "K-means",  "Random forest algorithm", "Model Validation", "Feature Selection", "Support Vector Regression", 
-                                   "K-Neighbors Regressor", XGBoost", "AdaBoostClassifier",
+                                   "K-Neighbors Regressor", "XGBoost", "AdaBoostClassifier",
                                    "K-Means Clustering","DBSCAN"],
    
    "Deep Learning": ["CNN", "RNN"]
