@@ -15,7 +15,7 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
 ```json
 {
    "Proficient": ["Python", "Java", "JavaScript", "C", "C++", "SQL","HTML","CSS", "Bootstrap"]
-   "Backend": ["Django", "Blackchain"],
+   "Backend": ["Django", "Blockchain"],
    "Database": ["MySql"],
    "AI framework":["jQuery","Django","Scikit-learn"],
    "Modules & Library":["Pandas","Numpy","Matplotlib & Seaborn"]
