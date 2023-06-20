@@ -10,25 +10,17 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
 
 ---
 
-## My Stack
+## My Stacks
 
-```json
-{
-   "Proficient": ["Python", "Java", "JavaScript", "C", "C++", "SQL","HTML","CSS", "Bootstrap"]
-   "Backend": ["Django", "Blockchain"],
-   "Database": ["MySql"],
-   "AI framework":["jQuery","Django","Scikit-learn"],
-   "Modules & Library":["Pandas","Numpy","Matplotlib & Seaborn"]
-                          
-   "Machine Learning Algorithms": ["Support Vector Machine Algorithm", "Linear Regression", "Logistic Regression", 
-                                   "Decision Tree", "Naive Bayes algorithm", "K-Nearest Neighbors Algorithma", 
-                                   "Random forest algorithm", "Model Validation", "Feature Selection", "Support Vector Regression", 
-                                   "K-Neighbors Regressor", "XGBoost", "AdaBoostClassifier",
-                                   "K-Means Clustering","DBSCAN"],
-   
-   "Deep Learning": ["CNN", "RNN"]
-}
-```
+# Languages: C | C++ | Python | Java
+# Frontend: HTML | CSS | Bootstrap | JavaScript 
+# Backend: Python | Django | Blockchain | Solidity | Remix
+# Database: MySql
+# AI framework:jQuery | Django | Scikit-learn
+# Modules & Library: Pandas | Numpy | Matplotlib & Seaborn
+# Machine Learning Algorithms: Support Vector Machine Algorithm | Linear Regression| Logistic Regression | Decision Tree | Naive Bayes algorithm | K-Nearest Neighbors Algorithm | Random forest algorithm | Model Validation | Feature Selection | Support Vector Regression | K-Neighbors Regressor | XGBoost | AdaBoostClassifier | K-Means Clustering | DBSCAN
+# Deep Learning: CNN | RNN
+# Others: Git | Linux 
 
 ---
 
