@@ -18,8 +18,8 @@ One of my primary areas of focus is machine learning and deep learning. I am fas
 #### Database: MySql
 #### AI framework: jQuery | Django | Scikit-learn | Flutter
 #### Modules & Library: Pandas | Numpy | Matplotlib & Seaborn
-#### Machine Learning Algorithms: Support Vector Machine Algorithm | Linear Regression| Logistic Regression | Decision Tree | Naive Bayes algorithm | K-Nearest Neighbors Algorithm | Random forest algorithm | Model Validation | Feature Selection | Support Vector Regression | K-Neighbors Regressor | XGBoost | AdaBoostClassifier | K-Means Clustering | DBSCAN
-#### Deep Learning: ANN| CNN | RNN
+#### Machine Learning Algorithms: Support Vector Machine Algorithm | Linear Regression| Logistic Regression | Decision Tree | Naive Bayes algorithm | K-Nearest Neighbors Algorithm | Random forest algorithm | Model Validation | Feature Selection | Support Vector Regression | K-Neighbors Regressor | XGBoost | AdaBoostClassifier | K-Means Clustering | DBSCAN | Dimensionality Reduction
+#### Deep Learning: ANN | CNN | RNN
 #### Others: Git | Linux 
 
 ---
